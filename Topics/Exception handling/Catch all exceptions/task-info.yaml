@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Exception
+- text: Error
+- text: ParentException
+- text: RuntimeException
+- text: Catcheable
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3447#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 09 May 2022 22:28:23 UTC
+record: -1
+selected_options:
+- 0

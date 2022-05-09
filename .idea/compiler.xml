@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Boxing_and_unboxing-Initializing_long_value.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Boxing_and_unboxing-Safe_converting.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Boxing_and_unboxing-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Leaderboard.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Ratings.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Value_class.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Catch_all_exceptions.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Converting_and_multiplying.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Executed_blocks.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-What_exceptions_can_be_handled.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Base_class.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Interface-Compact_strings_with_AsciiCharSequence.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Interface-Statements.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Interface-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multidimensional_array-Create_cube.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multidimensional_array-Find_the_corners.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multidimensional_array-Getting_an_element_from_a_3D_array.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multidimensional_array-Indexing_rules.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multidimensional_array-Maximum_element_in_a_matrix.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multidimensional_array-Multidimensional_array_features.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multidimensional_array-Practical_applications.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multidimensional_array-Printing_lengths_of_nested_arrays.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Processing_strings-Create_an_euphonious_word.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-StringBuilder-Concat_all_strings_without_digits.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-StringBuilder-Multiple_modifications.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-StringBuilder-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Switch_statement-Direction.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Switch_statement-Harry_Potter.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Switch_statement-Removing_breaks.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Switch_statement-Rewriting_code_using_switch.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Switch_statement-Shape.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Switch_statement-Statements.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_Collections_Framework_overview-Blacklist.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_Collections_Framework_overview-Collection_interfaces.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_Collections_Framework_overview-Supported_collections.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_Collections_Framework_overview-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
